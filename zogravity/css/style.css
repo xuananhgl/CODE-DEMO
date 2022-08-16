@@ -236,7 +236,7 @@
         padding-left: 35px;
        display: block;
         position: relative;
-        top: 126px;
+        top: 100px;
         left: -310px;
     } 
     .slider_titel p{
@@ -1043,6 +1043,11 @@
         text-decoration: none;
         color: #E4EEF1;
     }
+   .setting button{
+          background-color: #041839;
+         border: none;
+         color: #fff;
+   }
     .setting i{
         margin-right: 10px;
     }
